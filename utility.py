@@ -3,7 +3,7 @@ import  tensorflow as tf
 import matplotlib.pyplot as plt
 #import shap #https://shap.readthedocs.io/en/latest/index.html
 import seaborn as sns
-from GD_Optimizer import *
+
 sns.set()
 
 """## funzioni per visualizzare la rete neurale"""
